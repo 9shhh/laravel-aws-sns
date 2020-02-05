@@ -2,7 +2,7 @@
 
 namespace App\Console;
 
-use App\Reservation;
+use App\Reservation; // 예약 테이블 모델
 use Carbon\Carbon;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
